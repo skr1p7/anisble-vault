@@ -92,3 +92,5 @@ Vault password: <vault password to encrypt>
 
 The output must look like this:
 ![Working Role](images/pass_args.png)
+
+### Hope the walkthrough was helpful, in order to rectify any questions, drop me a DM on ![Twitter](htttps://twitter.com/0xskr1p7)
